@@ -2,7 +2,7 @@
 ### Hooks for the editor to set the default target
 current: target
 
-target pngtarget pdftarget vtarget acrtarget: notarget
+target pngtarget pdftarget vtarget acrtarget: overview.csv 
 
 ##################################################################
 
@@ -10,20 +10,50 @@ target pngtarget pdftarget vtarget acrtarget: notarget
 
 Sources = Makefile .gitignore README.md stuff.mk LICENSE.md
 include stuff.mk
+include $(ms)/perl.def
 
 ##################################################################
 
-## Content
+## Download overview pages
+
+DATE = $(shell date +"%y%m%d")
+
+date:
+	@echo $(DATE)
+
+## This is made manually to force a new download of available datasets
+update:
+	date >> overview.update
+
+overview.update: 
+	$(MAKE) update
+
+overview.dmp: overview.update
+	wget -O $@ "http://www.measuredhs.com/data/available-datasets.cfm"
+
+## Archive downloaded overview files
+Archive += $(wildcard archive/*)
+Sources += $(wildcard *.pl)
+
+archive/overview.%.csv: overview.dmp overview.pl
+	$(PUSH)
+
+overview.csv: archive/overview.$(DATE).csv
+	$(copy)
+
 
 ######################################################################
 
 ### Makestuff
 
 ## Change this name to download a new version of the makestuff directory
-# Makefile: start.makestuff
+Makefile: start.makestuff archive
+
+archive:
+	mkdir $@
 
 -include $(ms)/git.mk
 -include $(ms)/visual.mk
 
-# -include $(ms)/wrapR.mk
+-include $(ms)/wrapR.mk
 # -include $(ms)/oldlatex.mk
