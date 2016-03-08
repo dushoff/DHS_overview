@@ -24,11 +24,11 @@ date:
 	@echo $(DATE)
 
 ## This is made manually to force a new download of available datasets
-update:
+update_data:
 	date >> overview.update
 
 overview.update: 
-	$(MAKE) update
+	$(MAKE) update_data
 
 overview.dmp: overview.update
 	wget -O $@ "http://www.measuredhs.com/data/available-datasets.cfm"
