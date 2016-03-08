@@ -14,6 +14,8 @@ include $(ms)/perl.def
 
 ##################################################################
 
+# http://lalashan.mcmaster.ca/theobio/DHS/index.php/Main_Page
+
 ## Download overview pages
 
 DATE = $(shell date +"%y%m%d")
@@ -41,13 +43,9 @@ archive/overview.%.csv: overview.dmp overview.pl
 overview.csv: archive/overview.$(DATE).csv
 	$(copy)
 
-
 ######################################################################
 
-### Makestuff
-
-## Change this name to download a new version of the makestuff directory
-Makefile: start.makestuff archive
+Makefile: archive
 
 archive:
 	mkdir $@
