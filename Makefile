@@ -92,7 +92,7 @@ $(pointers)/%.cfm: cfm.update
 	sleep 1
 
 %.cfm: $(pointers)/%.cfm
-	$(hardlink)
+	$(forcelink)
 
 ## Go to the pages we've dumped, and find names of current datasets
 standard.files.html:
