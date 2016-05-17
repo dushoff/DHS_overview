@@ -49,7 +49,8 @@ while(<>){
 		$Recode = "" if (/datasetType/i);
 
 		if (/zip/ and $Recode){
-			s/\.zip\s*$//s or die ("did not understand zip name $_");
+			s/\s*<[^>]*>\s*$//;
+			s/\.zip$//s or die ("did not understand zip name $_");
 			s/^\s*//;
 			s/[a-z]{2}$//;
 

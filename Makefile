@@ -86,12 +86,13 @@ cfm.update:
 $(pointers):
 	mkdir $@
 
+.PRECIOUS: $(pointers)/%.cfm
 $(pointers)/%.cfm: cfm.update
-	wget -O $@ "http://www.measuredhs.com/data/dataset/$@"
+	wget -O $@ "http://www.measuredhs.com/data/dataset/$*.cfm"
 	sleep 1
 
 %.cfm: $(pointers)/%.cfm
-	$(link)
+	$(hardlink)
 
 ## Go to the pages we've dumped, and find names of current datasets
 standard.files.html:
