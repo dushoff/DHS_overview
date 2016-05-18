@@ -2,7 +2,7 @@
 ### Hooks for the editor to set the default target
 current: target
 
-target pngtarget pdftarget vtarget acrtarget: standard.files.csv 
+target pngtarget pdftarget vtarget acrtarget: standard.files.mk 
 
 ##################################################################
 
@@ -65,6 +65,10 @@ standard.select.csv: dhs.select.csv ais.select.csv
 ## This is giving some strange warnings. Investigate.
 standard.tagged.csv:
 %.tagged.csv: %.select.csv tag.pl
+	$(PUSH)
+
+## Rules for making files with fancy names from DHS download files
+standard.files.mk: standard.files.csv convertRules.pl
 	$(PUSH)
 
 ######################################################################
