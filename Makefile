@@ -26,8 +26,8 @@ pointers = $(Drop)/DHS_pointers
 ## Download overview pages
 
 DATE = $(shell date +"%y%m%d")
-date:
-	@echo $(DATE)
+update:
+	@echo $(DATE) > overview.update
 
 ## Touch or edit overview.update to download a new version of the available datasets page
 overview.dmp: overview.update
