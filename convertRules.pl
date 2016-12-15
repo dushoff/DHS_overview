@@ -1,8 +1,8 @@
 use strict;
 use 5.10.0;
 
-my $convert = 'convert_files/';
-my $download = 'download_files/';
+my $convert = 'convert/';
+my $download = 'convert/';
 
 while (<>){
 	chomp;
