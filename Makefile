@@ -17,8 +17,7 @@ include stuff.mk
 
 # Other directories
 
-Countries = $(gitroot)/Country_lists
-pointers = $(Drop)/DHS_pointers
+# Countries = $(gitroot)/Country_lists
 
 ######################################################################
 
@@ -46,7 +45,7 @@ overview.html: overview.csv
 ### Finding the "standard" sets (the ones we mostly want, from around the world)
 
 ## Standard abbreviations
-overview.short.csv: %.short.csv: %.csv $(Countries)/short.csv $(Countries)/abb.pl
+overview.short.csv: %.short.csv: %.csv Country_lists/short.csv Country_lists/abb.pl
 	$(PUSH)
 
 dhs.select.csv: overview.short.csv typeSelect.pl
@@ -83,15 +82,12 @@ standard_pages: $(standard.select)
 cfm.update:
 	date > $@
 
-$(pointers):
-	mkdir $@
-
-.PRECIOUS: $(pointers)/%.cfm
-$(pointers)/%.cfm: cfm.update
+.PRECIOUS: DHS_pointers_drop/%.cfm
+DHS_pointers_drop/%.cfm: cfm.update DHS_pointers_drop
 	wget -O $@ "http://www.measuredhs.com/data/dataset/$*.cfm"
 	sleep 1
 
-%.cfm: $(pointers)/%.cfm
+%.cfm: DHS_pointers_drop/%.cfm
 	$(forcelink)
 
 ## Go to the pages we've dumped, and find names of current datasets
@@ -103,6 +99,7 @@ standard.files.csv: standard.tagged.csv standard_pages files.pl
 
 -include $(ms)/git.mk
 -include $(ms)/visual.mk
+-include $(ms)/linkdirs.mk
 
 -include $(ms)/wrapR.mk
 -include $(ms)/pandoc.mk
