@@ -2,15 +2,16 @@
 ### Hooks for the editor to set the default target
 current: target
 
-target pngtarget pdftarget vtarget acrtarget: standard.files.mk 
+target pngtarget pdftarget vtarget acrtarget: overview.html 
 
 ##################################################################
 
 # make files
 
-Sources = Makefile .gitignore README.md stuff.mk LICENSE.md
+Sources += Makefile .gitignore README.md stuff.mk LICENSE.md
+Sources += $(wildcard *.tmp)
 include stuff.mk
-include $(ms)/perl.def
+-include $(ms)/perl.def
 
 ##################################################################
 
@@ -26,22 +27,17 @@ pointers = $(Drop)/DHS_pointers
 ## Download overview pages
 
 DATE = $(shell date +"%y%m%d")
-update_download:
+update_download overview.update:
 	@echo $(DATE) > overview.update
 
 ## Touch or edit overview.update to download a new version of the available datasets page
 overview.dmp: overview.update
 	wget -O $@ "http://www.measuredhs.com/data/available-datasets.cfm"
 
-## Archive downloaded overview files
-Archive += $(wildcard archive/*)
 Sources += $(wildcard *.pl)
 
-archive/overview.%.csv: overview.dmp overview.pl
+overview.csv: overview.dmp overview.pl
 	$(PUSH)
-
-overview.csv: archive/overview.$(DATE).csv
-	$(copy)
 
 overview.html: overview.csv
 
@@ -75,7 +71,7 @@ standard.files.mk: standard.files.csv convertRules.pl
 
 ## Finding the files
 
-include standard.inc.mk
+-include standard.inc.mk
  
 standard.inc.mk: standard.select.csv pages.pl
 	$(PUSH)
@@ -105,15 +101,8 @@ standard.files.csv: standard.tagged.csv standard_pages files.pl
 
 ######################################################################
 
-
-Makefile: archive
-
-archive:
-	mkdir $@
-
 -include $(ms)/git.mk
 -include $(ms)/visual.mk
 
 -include $(ms)/wrapR.mk
 -include $(ms)/pandoc.mk
-# -include $(ms)/oldlatex.mk
