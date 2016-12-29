@@ -15,12 +15,6 @@ include stuff.mk
 
 ##################################################################
 
-# Other directories
-
-# Countries = $(gitroot)/Country_lists
-
-######################################################################
-
 # http://lalashan.mcmaster.ca/theobio/DHS/index.php/Main_Page
 
 ## Download overview pages
