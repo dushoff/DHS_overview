@@ -2,7 +2,7 @@
 ### Hooks for the editor to set the default target
 current: target
 
-target pngtarget pdftarget vtarget acrtarget: standard.files.html 
+target pngtarget pdftarget vtarget acrtarget: overview.html 
 
 ##################################################################
 
