@@ -14,6 +14,11 @@ Notes
 
 * What information is available from DHS? Where is it and what are the file names? This is an older, scraping-based approach. I am still in the middle of rescuing it from the wiki (and haven't quite decided yet whether it's worth the time).
 
+This repo "rips" information from the DHS web site about the availability and DHS names of data sets?
+
+* What information is available from DHS? Where is it and what are the file names? It would be nice to replace this with something less fragile.
+
+
 * We can still download; it selects "standard" datasets and makes nice tables and Makefiles.
 
 * We want to make chained rules to download things and convert them
