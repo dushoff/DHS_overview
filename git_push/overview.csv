@@ -7,7 +7,7 @@ Armenia,  2010, Standard DHS, DHS-VI, DHS-VI, Armenia_Standard-DHS_2010.cfm, Arm
 Armenia,  2005, Standard DHS, DHS-V, DHS-IV, Armenia_Standard-DHS_2005.cfm, Not Distributed, Not Collected, Not Applicable
 Armenia,  2000, Standard DHS, DHS-IV, DHS-IV, Armenia_Standard-DHS_2000.cfm, Not Collected, Not Collected, Not Applicable
 Azerbaijan,  2006, Standard DHS, DHS-V, DHS-V, Azerbaijan_Standard-DHS_2006.cfm, Not Collected, Not Collected, Not Applicable
-Bangladesh,  2014, SPA, DHS-VII, --, Not Applicable, Not Yet Available, Not Collected, Bangladesh_SPA_2014.cfm
+Bangladesh,  2014, SPA, DHS-VII, --, Not Applicable, Bangladesh_SPA_2014.cfm, Not Collected, Bangladesh_SPA_2014.cfm
 Bangladesh,  2014, Standard DHS, DHS-VII, DHS-VI, Bangladesh_Standard-DHS_2014.cfm, Bangladesh_Standard-DHS_2014.cfm, Not Collected, Not Applicable
 Bangladesh,  2011, Standard DHS, DHS-VI, DHS-VI, Bangladesh_Standard-DHS_2011.cfm, Bangladesh_Standard-DHS_2011.cfm, Not Yet Available, Not Applicable
 Bangladesh,  2007, Standard DHS, DHS-V, DHS-V, Bangladesh_Standard-DHS_2007.cfm, Bangladesh_Standard-DHS_2007.cfm, Not Collected, Not Applicable
@@ -228,6 +228,7 @@ Niger,  2012, Standard DHS, DHS-VI, DHS-VI, Niger_Standard-DHS_2012.cfm, Not Dis
 Niger,  2006, Standard DHS, DHS-V, DHS-V, Niger_Standard-DHS_2006.cfm, Not Distributed, Niger_Standard-DHS_2006.cfm, Not Applicable
 Niger,  1998, Standard DHS, DHS-III, DHS-III, Niger_Standard-DHS_1998.cfm, Niger_Standard-DHS_1998.cfm, Not Collected, Not Applicable
 Niger,  1992, Standard DHS, DHS-II, DHS-II, Niger_Standard-DHS_1992.cfm, Niger_Standard-DHS_1992.cfm, Not Collected, Not Applicable
+Nigeria,  2015, MIS, DHS-VII, DHS-VI, Nigeria_MIS_2015.cfm, Not Yet Available, Not Collected, Not Applicable
 Nigeria,  2013, Standard DHS, DHS-VI, DHS-VI, Nigeria_Standard-DHS_2013.cfm, Nigeria_Standard-DHS_2013.cfm, Not Collected, Not Applicable
 Nigeria,  2010, MIS, DHS-VI, DHS-VI, Nigeria_MIS_2010.cfm, Nigeria_MIS_2010.cfm, Not Collected, Not Applicable
 Nigeria,  2008, Standard DHS, DHS-V, DHS-V, Nigeria_Standard-DHS_2008.cfm, Nigeria_Standard-DHS_2008.cfm, Not Collected, Not Applicable
@@ -270,6 +271,8 @@ Rwanda,  1992, Standard DHS, DHS-II, DHS-II, Rwanda_Standard-DHS_1992.cfm, Not C
 Samoa,  2009, Standard DHS, DHS-V, DHS-V, Not In Public Domain, Not Collected, Not Collected, Not Applicable
 Sao Tome and Principe,  2014, MICS, DHS-VII, --, Not Yet Available, Not Yet Available, Not Yet Available, Not Applicable
 Sao Tome and Principe,  2008-09, Standard DHS, DHS-V, DHS-V, Sao-Tome-and-Principe_Standard-DHS_2008.cfm, Not Collected, Sao-Tome-and-Principe_Standard-DHS_2008.cfm, Not Applicable
+Senegal,  2015, Continuous DHS, DHS-VII, DHS-VI, Senegal_Continuous-DHS_2015.cfm, Not Yet Available, Not Collected, Not Applicable
+Senegal,  2015, SPA, DHS-VII, --, Not Applicable, Not Yet Available, Not Collected, Not Yet Available
 Senegal,  2014, Continuous DHS, DHS-VII, DHS-VI, Senegal_Continuous-DHS_2014.cfm, Not Yet Available, Not Collected, Not Applicable
 Senegal,  2014, SPA, DHS-VII, --, Not Applicable, Not Yet Available, Not Collected, Senegal_SPA_2014.cfm
 Senegal,  2012-13, Continuous DHS, DHS-VI, DHS-VI, Senegal_Continuous-DHS_2012.cfm, Senegal_Continuous-DHS_2012.cfm, Not Collected, Not Applicable
@@ -292,7 +295,8 @@ Sri Lanka,  1987, Standard DHS, DHS-I, DHS-I, Sri-Lanka_Standard-DHS_1987.cfm, N
 Sudan,  1989-90, Standard DHS, DHS-I, DHS-I, Sudan_Standard-DHS_1990.cfm, Not Collected, Not Collected, Not Applicable
 Swaziland,  2006-07, Standard DHS, DHS-V, DHS-V, Swaziland_Standard-DHS_2006.cfm, Swaziland_Standard-DHS_2006.cfm, Swaziland_Standard-DHS_2006.cfm, Not Applicable
 Tajikistan,  2012, Standard DHS, DHS-VI, DHS-VI, Tajikistan_Standard-DHS_2012.cfm, Tajikistan_Standard-DHS_2012.cfm, Not Yet Available, Not Applicable
-Tanzania,  2014-15, SPA, DHS-VII, --, Not Applicable, Not Yet Available, Not Collected, Tanzania_SPA_2014.cfm
+Tanzania,  2015-16, Standard DHS, DHS-VII, DHS-VII, Tanzania_Standard-DHS_2015.cfm, Tanzania_Standard-DHS_2015.cfm, Not Collected, Not Applicable
+Tanzania,  2014-15, SPA, DHS-VII, --, Not Applicable, Tanzania_SPA_2014.cfm, Not Collected, Tanzania_SPA_2014.cfm
 Tanzania,  2011-12, Standard AIS, DHS-VI, DHS-VI, Tanzania_Standard-AIS_2012.cfm, Tanzania_Standard-AIS_2012.cfm, Tanzania_Standard-AIS_2012.cfm, Not Applicable
 Tanzania,  2010, Standard DHS, DHS-VI, DHS-V, Tanzania_Standard-DHS_2010.cfm, Tanzania_Standard-DHS_2010.cfm, Tanzania_Standard-DHS_2010.cfm, Not Applicable
 Tanzania,  2007-08, Standard AIS, DHS-V, DHS-V, Tanzania_Standard-AIS_2007.cfm, Tanzania_Standard-AIS_2007.cfm, Tanzania_Standard-AIS_2007.cfm, Not Applicable
@@ -341,6 +345,7 @@ Zambia,  2005, HIV SPA, DHS-V, --, Not Applicable, Not Distributed, Not Collecte
 Zambia,  2001-02, Standard DHS, DHS-IV, DHS-IV, Zambia_Standard-DHS_2002.cfm, Not Distributed, Zambia_Standard-DHS_2002.cfm, Not Applicable
 Zambia,  1996, Standard DHS, DHS-III, DHS-III, Zambia_Standard-DHS_1996.cfm, Not Collected, Not Collected, Not Applicable
 Zambia,  1992, Standard DHS, DHS-II, DHS-II, Zambia_Standard-DHS_1992.cfm, Not Collected, Not Collected, Not Applicable
+Zimbabwe,  2015, Standard DHS, DHS-VII, DHS-VII, Zimbabwe_Standard-DHS_2015.cfm, Zimbabwe_Standard-DHS_2015.cfm, Zimbabwe_Standard-DHS_2015.cfm, Not Applicable
 Zimbabwe,  2010-11, Standard DHS, DHS-VI, DHS-VI, Zimbabwe_Standard-DHS_2010.cfm, Zimbabwe_Standard-DHS_2010.cfm, Zimbabwe_Standard-DHS_2010.cfm, Not Applicable
 Zimbabwe,  2005-06, Standard DHS, DHS-V, DHS-V, Zimbabwe_Standard-DHS_2005.cfm, Zimbabwe_Standard-DHS_2005.cfm, Zimbabwe_Standard-DHS_2005.cfm, Not Applicable
 Zimbabwe,  1999, Standard DHS, DHS-IV, DHS-IV, Zimbabwe_Standard-DHS_1999.cfm, Zimbabwe_Standard-DHS_1999.cfm, Not Collected, Not Applicable
