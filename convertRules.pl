@@ -13,6 +13,7 @@ while (<>){
 	) = split /,\s*/;
 
 	if ($Country eq "Country"){
+		say STDERR;
 		die "Mismatched header $_" unless $Members eq "Members";
 		next;
 	}

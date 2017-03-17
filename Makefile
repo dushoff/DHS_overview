@@ -2,7 +2,7 @@
 ### Hooks for the editor to set the default target
 current: target
 
-target pngtarget pdftarget vtarget acrtarget: standard.files.html 
+target pngtarget pdftarget vtarget acrtarget: standard.files.mk 
 
 ##################################################################
 
@@ -56,6 +56,11 @@ standard.tagged.csv:
 %.tagged.csv: %.select.csv tag.pl
 	$(PUSH)
 
+## Go to the pages we've dumped, and find names of current datasets
+standard.files.html:
+standard.files.csv: standard.tagged.csv standard_pages files.pl
+	$(PUSH)
+
 ## Rules for making files with fancy names from DHS download files
 standard.files.mk: standard.files.csv convertRules.pl
 	$(PUSH)
@@ -83,11 +88,6 @@ DHS_pointers_drop/%.cfm: cfm.update DHS_pointers_drop
 
 %.cfm: DHS_pointers_drop/%.cfm
 	$(forcelink)
-
-## Go to the pages we've dumped, and find names of current datasets
-standard.files.html:
-standard.files.csv: standard.tagged.csv standard_pages files.pl
-	$(PUSH)
 
 ######################################################################
 
