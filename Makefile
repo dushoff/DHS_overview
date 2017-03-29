@@ -69,6 +69,7 @@ standard.files.mk: standard.files.csv convertRules.pl
 
 ## Finding the files
 
+## A list of all the .cfm files we want to make
 -include standard.inc.mk
  
 standard.inc.mk: standard.select.csv pages.pl
@@ -79,10 +80,11 @@ standard_pages: $(standard.select)
 
 ## Touch or edit cfm.update to invalidate the .cfm files (if they need to be downloaded again)
 cfm.update:
+	$(MAKE) DHS_pointers_drop
 	date > $@
 
 .PRECIOUS: DHS_pointers_drop/%.cfm
-DHS_pointers_drop/%.cfm: cfm.update DHS_pointers_drop
+DHS_pointers_drop/%.cfm: cfm.update
 	wget -O $@ "http://www.measuredhs.com/data/dataset/$*.cfm"
 	sleep 1
 

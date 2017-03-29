@@ -9,18 +9,18 @@ while (<>){
 	my(
 		$Country, $Survey, $Tag, $Type, $Phase, $Manual,
 		$Births, $Children, $Couples, $GPS, $HIV, $Household,
-		$Individual, $Members, $Men
+		$Members, $Men, $Women
 	) = split /,\s*/;
 
 	if ($Country eq "Country"){
 		say STDERR;
-		die "Mismatched header $_" unless $Members eq "Members";
+		die "Mismatched header $_" unless $Women eq "Women";
 		next;
 	}
 
 	say "$convert$Tag.women.Rout: " .
-		$download . $Individual . "fl.sav"
-	if $Individual;
+		$download . $Women . "fl.sav"
+	if $Women;
 
 	say "$convert$Tag.men.Rout: " .
 		$download . $Men . "fl.sav"

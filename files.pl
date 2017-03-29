@@ -31,19 +31,38 @@ while(<>){
 	while (<PAGE>){
 		chomp;
 
-		s/Geographic/<strong>GPS Recode/;
-		if (s/.*<strong>//){
-			$Recode = "";
-			# Non-standard codings
+		# Recognize category banners and set recode codes
+		$Recode="" if /td_style32/;
+		if (/td_style32/../\/td/){
+			# Non-standard codings (there's a lot now; rationalize somehow)
 			next if /Child\b/;
 			next if /Village/;
-
-			if (/Recode/){
+			next if /Adult/;
+			next if /Expenditure/;
+			next if /Other/;
+			next if /Service/;
+			next if /Verbal/;
+			next if /Wealth/;
+			## next if /Women/; ## Is this the same as Individual?
+			if (/^[A-Z]/){
+				s/Individual/Women/;
 				s/Household Member/Members/;
 				s/\W.*//s;
 				$Recode=$_;
 				$recodes{$Recode} = 0;
 			}
+		}
+
+		# Another kind of banner
+		if (/datasetType/){
+			s/[^>]*>//;
+			s/<.*//;
+			next if /Other/;
+			next if /SPA/;
+			s/Geographic/GPS/;
+			s/\W.*//s;
+			$Recode=$_;
+			$recodes{$Recode} = 0;
 		}
 
 		$Recode = "" if (/datasetType/i);
@@ -79,7 +98,7 @@ foreach my $Country (sort keys %countries){
 				if $#sets>0;
 
 			{no warnings 'uninitialized';
-				print ", $sets[0]";
+				print ", " . join "..", @sets;
 			}
 		}
 		say "";
