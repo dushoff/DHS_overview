@@ -1,0 +1,246 @@
+Country, Survey, Tag, Type, Phase, Manual, Births, Children, Couples, GPS, HIV, Household, Members, Men, Women
+Afghanistan, 2015, Afghanistan_VII.DHS.VII, Standard DHS, DHS-VII, DHS-VII, afbr70, afkr70, afcr70, , , afhr70, afpr70, afmr70, afir70
+Albania, 2008-09, Albania_V.DHS.V, Standard DHS, DHS-V, DHS-V, albr50, alkr50, alcr50, alge51, , alhr50, alpr50, almr50, alir50
+Armenia, 2000, Armenia_IV.DHS.IV, Standard DHS, DHS-IV, DHS-IV, ambr42, amkr42, amcr42, , , amhr42, ampr42, ammr41, amir42
+Armenia, 2005, Armenia_V.DHS.IV, Standard DHS, DHS-V, DHS-IV, ambr54, amkr54, amcr52, , , amhr54, ampr54, ammr52, amir54
+Armenia, 2010, Armenia_VI.DHS.VI, Standard DHS, DHS-VI, DHS-VI, ambr61, amkr61, amcr61, amge61, , amhr61, ampr61, ammr61, amir61
+Azerbaijan, 2006, Azerbaijan_V.DHS.V, Standard DHS, DHS-V, DHS-V, azbr52, azkr52, azcr52, , , azhr52, azpr52, azmr52, azir52
+Bangladesh, 1993-94, Bangladesh_IIIb.DHS.III, Standard DHS, DHS-III, DHS-III, bdbr31, bdkr31, bdcr31, , , bdhr31, bdpr31, bdmr31, bdir31
+Bangladesh, 1996-97, Bangladesh_IIIa.DHS.III, Standard DHS, DHS-III, DHS-III, bdbr3a, bdkr3a, bdcr3a, , , bdhr3a, bdpr3a, bdmr3a, bdir3a
+Bangladesh, 1999-00, Bangladesh_IV.DHS.III, Standard DHS, DHS-IV, DHS-III, bdbr41, bdkr41, bdcr41, bdge42, , bdhr41, bdpr41, bdmr41, bdir41
+Bangladesh, 2004, Bangladesh_IV.DHS.IV, Standard DHS, DHS-IV, DHS-IV, bdbr4j, bdkr4j, bdcr4j, bdge4j, , bdhr4j, bdpr4j, bdmr4j, bdir4j
+Bangladesh, 2007, Bangladesh_V.DHS.V, Standard DHS, DHS-V, DHS-V, bdbr51, bdkr51, bdcr51, bdge52, , bdhr51, bdpr51, bdmr51, bdir51
+Bangladesh, 2011, Bangladesh_VI.DHS.VI, Standard DHS, DHS-VI, DHS-VI, bdbr61, bdkr61, bdcr61, bdge61, , bdhr61, bdpr61, bdmr61, bdir61
+Bangladesh, 2014, Bangladesh_VII.DHS.VI, Standard DHS, DHS-VII, DHS-VI, bdbr70, bdkr70, , bdge71, , bdhr70, bdpr70, , bdir70
+Benin, 1996, Benin_III.DHS.III, Standard DHS, DHS-III, DHS-III, bjbr31, bjkr31, bjcr31, bjge33, , bjhr31, bjpr31, bjmr31, bjir31
+Benin, 2001, Benin_IV.DHS.IV, Standard DHS, DHS-IV, DHS-IV, bjbr41, bjkr41, bjcr41, bjge42, , bjhr41, bjpr41, bjmr41, bjir41
+Benin, 2006, Benin_V.DHS.V, Standard DHS, DHS-V, DHS-V, bjbr51, bjkr51, bjcr51, , , bjhr51, bjpr51, bjmr51, bjir51
+Benin, 2011-12, Benin_VI.DHS.VI, Standard DHS, DHS-VI, DHS-VI, bjbr61, bjkr61, bjcr61, bjge61, , bjhr61, bjpr61, bjmr61, bjir61
+Bolivia, 1989, Bolivia_I.DHS.I, Standard DHS, DHS-I, DHS-I, bobr01, bokr01, , , , bohh01, , , boir01
+Bolivia, 1994, Bolivia_IIIb.DHS.III, Standard DHS, DHS-III, DHS-III, bobr31, bokr31, , , , bohh33..bohr31, bopr31, , boiq33..boir31
+Bolivia, 1998, Bolivia_IIIa.DHS.III, Standard DHS, DHS-III, DHS-III, bobr3b, bokr3b, bocr3b, , , bohr3b, bopr3b, bomr3b, boir3b
+Bolivia, 2003, Bolivia_IV.DHS.IV, Standard DHS, DHS-IV, DHS-IV, bobr41, bokr41, bocr41, , , bohr41, bopr41, bomr41, boir41
+Bolivia, 2008, Bolivia_V.DHS.V, Standard DHS, DHS-V, DHS-V, bobr51, bokr51, bocr51, boge53, , bohr51, bopr51, bomr51, boir51
+Brazil, 1986, Brazil_I.DHS.I, Standard DHS, DHS-I, DHS-I, brbr01, brkr01, , , , brhh02, , , brir01
+Brazil, 1991, Brazil_II.DHS.II, Standard DHS, DHS-II, DHS-II, brbr21, brkr21, , , , brhr21, brpr21, , brir21
+Brazil, 1996, Brazil_III.DHS.III, Standard DHS, DHS-III, DHS-III, brbr31, brkr31, brcr31, , , brhr31, brpr31, brmr31, brir31
+Burkina Faso, 1993, Burkina_Faso_II.DHS.II, Standard DHS, DHS-II, DHS-II, bfbr21, bfkr21, bfcr21, bfge23, , bfhr21, bfpr21, bfmr21, bfir21
+Burkina Faso, 1998-99, Burkina_Faso_III.DHS.III, Standard DHS, DHS-III, DHS-III, bfbr31, bfkr31, bfcr31, bfge32, , bfhr31, bfpr31, bfmr31, bfir31
+Burkina Faso, 2003, Burkina_Faso_IV.DHS.IV, Standard DHS, DHS-IV, DHS-IV, bfbr43, bfkr43, bfcr41, bfge43, , bfhr43, bfpr44, bfmr41, bfir43
+Burkina Faso, 2010, Burkina_Faso_VI.DHS.VI, Standard DHS, DHS-VI, DHS-VI, bfbr62, bfkr62, bfcr62, bfge61, , bfhr62, bfpr62, bfmr62, bfir62
+Burundi, 1987, Burundi_I.DHS.I, Standard DHS, DHS-I, DHS-I, bubr01, bukr01, , , , buhh02, , , buir02
+Burundi, 2010, Burundi_VI.DHS.VI, Standard DHS, DHS-VI, DHS-VI, bubr61, bukr61, bucr61, buge61, , buhr61, bupr61, bumr61, buir61
+Cambodia, 2000, Cambodia_IV.DHS.IV, Standard DHS, DHS-IV, DHS-IV, khbr42, khkr42, , khge43, , khhr42, khpr42, , khir42
+Cambodia, 2005, Cambodia_V.DHS.V, Standard DHS, DHS-V, DHS-V, khbr51, khkr51, khcr51, khge51, , khhr51, khpr51, khmr51, khir51
+Cambodia, 2010, Cambodia_VI.DHS.V, Standard DHS, DHS-VI, DHS-V, khbr61, khkr61, , khge62, , khhr61, khpr61, khmr61, khir61
+Cambodia, 2014, Cambodia_VII.DHS.VI, Standard DHS, DHS-VII, DHS-VI, khbr72, khkr72, khcr72, khge71, , khhr72, khpr72, khmr72, khir72
+Cameroon, 1991, Cameroon_II.DHS.II, Standard DHS, DHS-II, DHS-II, cmbr22, cmkr21, cmcr21, cmge23, , cmhr22, cmpr22, cmmr21, cmir22
+Cameroon, 1998, Cameroon_III.DHS.III, Standard DHS, DHS-III, DHS-III, cmbr31, cmkr31, cmcr31, , , cmhr31, cmpr31, cmmr31, cmir31
+Cameroon, 2004, Cameroon_IV.DHS.IV, Standard DHS, DHS-IV, DHS-IV, cmbr44, cmkr44, cmcr44, cmge42, , cmhr44, cmpr45, cmmr44, cmir44
+Cameroon, 2011, Cameroon_VI.DHS.VI, Standard DHS, DHS-VI, DHS-VI, cmbr60, cmkr60, cmcr60, cmge61, , cmhr60, cmpr60, cmmr60, cmir60
+Central African Republic, 1994-95, Central_African_Republic_III.DHS.III, Standard DHS, DHS-III, DHS-III, cfbr31, cfkr31, cfcr31, cfge33, , cfhr31, cfpr31, cfmr31, cfir31
+Chad, 1996-97, Chad_III.DHS.III, Standard DHS, DHS-III, DHS-III, tdbr31, tdkr31, tdcr31, , , tdhr31, tdpr31, tdmr31, tdir31
+Chad, 2004, Chad_IV.DHS.IV, Standard DHS, DHS-IV, DHS-IV, tdbr41, tdkr41, tdcr41, , , tdhr41, tdpr41, tdmr41, tdir41
+Chad, 2014-15, Chad_VII.DHS.VI, Standard DHS, DHS-VII, DHS-VI, tdbr71, tdkr71, tdcr71, tdge71, , tdhr71, tdpr71, tdmr71, tdir71
+Colombia, 1986, Colombia_I.DHS.I, Standard DHS, DHS-I, DHS-I, cobr01, cokr01, , , , cohh02, , , coir01
+Colombia, 1990, Colombia_II.DHS.II, Standard DHS, DHS-II, DHS-II, cobr22, cokr22, , , , cohr22, copr22, , coir22
+Colombia, 1995, Colombia_III.DHS.III, Standard DHS, DHS-III, DHS-III, cobr31, cokr31, , , , cohr31, copr31, , coir31
+Colombia, 2000, Colombia_IV.DHS.IV, Standard DHS, DHS-IV, DHS-IV, cobr41, cokr41, , , , cohr41, copr41, , coir41
+Colombia, 2005, Colombia_V.DHS.IV, Standard DHS, DHS-V, DHS-IV, cobr53, cokr53, , , , cohr53, copr53, , coir53
+Colombia, 2010, Colombia_VI.DHS.V, Standard DHS, DHS-VI, DHS-V, cobr61, cokr61, , coge61, , cohr61, copr61, , coir61
+Comoros, 1996, Comoros_III.DHS.III, Standard DHS, DHS-III, DHS-III, kmbr32, kmkr31, kmcr31, , , kmhr32, kmpr32, kmmr31, kmir32
+Comoros, 2012, Comoros_VI.DHS.VI, Standard DHS, DHS-VI, DHS-VI, kmbr61, kmkr61, kmcr61, kmge61, , kmhr61, kmpr61, kmmr61, kmir61
+Congo Brazzaville, 2005, Congo_Brazzaville_V.DHS.V, Standard DHS, DHS-V, DHS-V, cgbr51, cgkr51, cgcr51, , , cghr51, cgpr51, cgmr51, cgir51
+Congo Brazzaville, 2009, Congo_Brazzaville_V.AIS.V, Standard AIS, DHS-V, DHS-V, , , , , , cghr5h, cgpr5h, , cgir5h
+Congo Brazzaville, 2011-12, Congo_Brazzaville_VI.DHS.VI, Standard DHS, DHS-VI, DHS-VI, cgbr60, cgkr60, cgcr60, , , cghr60, cgpr60, cgmr60, cgir60
+Congo Kinshasa, 2007, Congo_Kinshasa_V.DHS.V, Standard DHS, DHS-V, DHS-V, cdbr50, cdkr50, cdcr50, cdge52, , cdhr50, cdpr50, cdmr50, cdir50
+Congo Kinshasa, 2013-14, Congo_Kinshasa_VI.DHS.VI, Standard DHS, DHS-VI, DHS-VI, cdbr61, cdkr61, cdcr61, cdge61, , cdhr61, cdpr61, cdmr61, cdir61
+Dominican Republic, 1986, Dominican_Republic_I.DHS.I, Standard DHS, DHS-I, DHS-I, drbr01, drkr01, , , , drhh01, , , drir01
+Dominican Republic, 1991, Dominican_Republic_II.DHS.II, Standard DHS, DHS-II, DHS-II, drbr21, drkr21, , , , drhr21, drpr21, , drir21
+Dominican Republic, 1996, Dominican_Republic_III.DHS.III, Standard DHS, DHS-III, DHS-III, drbr32, drkr31, drcr31, , , drhr32, drpr32, drmr31, drir32
+Dominican Republic, 1999, Dominican_Republic_IVb.DHS.IV, Standard DHS, DHS-IV, DHS-IV, drbr41, drkr41, drcr41, , , drhr41, drpr41, drmr41, drir41
+Dominican Republic, 2002, Dominican_Republic_IVa.DHS.IV, Standard DHS, DHS-IV, DHS-IV, drbr4a, drkr4a, drcr4a, , , drhr4a, drpr4a, drmr4a, drir4a
+Dominican Republic, 2007, Dominican_Republic_V.DHS.V, Standard DHS, DHS-V, DHS-V, drbr52, drkr52, drcr52, drge52, , drhr52, drpr52, drmr52, drir52
+Dominican Republic, 2013, Dominican_Republic_VI.DHS.VI, Standard DHS, DHS-VI, DHS-VI, drbr61, drkr61, drcr61, drge61, , drhr61, drpr61, drmr61, drir61
+Ecuador, 1987, Ecuador_I.DHS.I, Standard DHS, DHS-I, DHS-I, ecbr01, eckr01, , , , echh01, , , ecir01
+Egypt, 1988, Egypt_I.DHS.I, Standard DHS, DHS-I, DHS-I, egbr01, egkr01, , , , eghh02, , , egir01
+Egypt, 1992, Egypt_II.DHS.II, Standard DHS, DHS-II, DHS-II, egbr21, egkr21, , egge22, , eghr21, egpr21, , egir21
+Egypt, 1995, Egypt_III.DHS.III, Standard DHS, DHS-III, DHS-III, egbr33, egkr33, , egge32, , eghr33, egpr33, , egir33..egws39
+Egypt, 2000, Egypt_IV.DHS.IV, Standard DHS, DHS-IV, DHS-IV, egbr42, egkr42, , egge42, , eghr42, egpr42, , egir42
+Egypt, 2005, Egypt_V.DHS.IV, Standard DHS, DHS-V, DHS-IV, egbr51, egkr51, , egge52, , eghr51, egpr51, , egir51
+Egypt, 2008, Egypt_V.DHS.V, Standard DHS, DHS-V, DHS-V, egbr5a, egkr5a, , egob5a..egge5d, , eghh5a..eghr5a, egpr5a..egpq5a, , egir5a..egiq5a
+Egypt, 2014, Egypt_VI.DHS.VI, Standard DHS, DHS-VI, DHS-VI, egbr61, egkr61, , egge61, , eghr61, egpr61, , egir61
+El Salvador, 1985, El_Salvador_I.DHS.I, Standard DHS, DHS-I, DHS-I, esbr01, , , , , , , , esir01
+Ethiopia, 2000, Ethiopia_IV.DHS.IV, Standard DHS, DHS-IV, DHS-IV, etbr41, etkr41, etcr41, etge42, , ethr41, etpr41, etmr41, etir41
+Ethiopia, 2005, Ethiopia_V.DHS.IV, Standard DHS, DHS-V, DHS-IV, etbr51, etkr51, etcr51, etge52, , ethr51, etpr51, etmr51, etir51
+Ethiopia, 2011, Ethiopia_VI.DHS.VI, Standard DHS, DHS-VI, DHS-VI, etbr61, etkr61, etcr61, etge61, , ethr61, etpr61, etmr61, etir61
+Gabon, 2000, Gabon_IV.DHS.III, Standard DHS, DHS-IV, DHS-III, gabr41, gakr41, gacr41, , , gahr41, gapr41, gamr41, gair41
+Gabon, 2012, Gabon_VI.DHS.VI, Standard DHS, DHS-VI, DHS-VI, gabr60, gakr60, gacr60, gage61, , gahr60, gapr60, gamr60, gair60
+Gambia, 2013, Gambia_VI.DHS.VI, Standard DHS, DHS-VI, DHS-VI, gmbr60, gmkr60, gmcr60, , , gmhr60, gmpr60, gmmr60, gmir60
+Ghana, 1988, Ghana_I.DHS.I, Standard DHS, DHS-I, DHS-I, ghbr02, ghkr01, , , , ghhh01, , , ghir02
+Ghana, 1993, Ghana_III.DHS.II, Standard DHS, DHS-III, DHS-II, ghbr31, ghkr31, ghcr31, ghge33, , ghhr31, ghpr31, ghmr31, ghir31
+Ghana, 1998, Ghana_IV.DHS.III, Standard DHS, DHS-IV, DHS-III, ghbr41, ghkr41, ghcr41, ghge42, , ghhr41, ghpr41, ghmr41, ghir41
+Ghana, 2003, Ghana_IV.DHS.IV, Standard DHS, DHS-IV, DHS-IV, ghbr4b, ghkr4b, ghcr4b, ghge4b, , ghhr4b, ghpr4b, ghmr4b, ghir4b
+Ghana, 2008, Ghana_V.DHS.V, Standard DHS, DHS-V, DHS-V, ghbr5a, ghkr5a, ghcr5a, ghge5a, , ghhr5a, ghpr5a, ghmr5a, ghir5a
+Ghana, 2014, Ghana_VII.DHS.VI, Standard DHS, DHS-VII, DHS-VI, ghbr72, ghkr72, ghcr71, ghge71, , ghhr72, ghpr72, ghmr71, ghir72
+Guatemala, 1987, Guatemala_I.DHS.I, Standard DHS, DHS-I, DHS-I, gubr01, gukr01, , , , guhh01, , , guir01
+Guatemala, 1995, Guatemala_III.DHS.III, Standard DHS, DHS-III, DHS-III, gubr34, gukr34, , , , guhr34, gupr34, , guir34
+Guatemala, 2014-15, Guatemala_VII.DHS.VI, Standard DHS, DHS-VII, DHS-VI, gubr71, gukr71, , guge71, , guhr71, gupr71, gumr71, guir71
+Guinea, 1999, Guinea_IV.DHS.III, Standard DHS, DHS-IV, DHS-III, gnbr41, gnkr41, gncr41, gnge42, , gnhr41, gnpr41, gnmr41, gnir41
+Guinea, 2005, Guinea_V.DHS.IV, Standard DHS, DHS-V, DHS-IV, gnbr52, gnkr52, gncr52, gnge52, , gnhr52, gnpr53, gnmr52, gnir52
+Guinea, 2012, Guinea_VI.DHS.VI, Standard DHS, DHS-VI, DHS-VI, gnbr61, gnkr61, gncr61, gnge61, , gnhr61, gnpr61, gnmr61, gnir61
+Guyana, 2005, Guyana_V.AIS.V, Standard AIS, DHS-V, DHS-V, gybr51, gykr51, , , , gyhr51, gypr51, , gyir51
+Guyana, 2009, Guyana_V.DHS.V, Standard DHS, DHS-V, DHS-V, gybr5i, gykr5i, gycr5i, gyge5j, , gyhr5i, gypr5i, gymr5i, gyir5i
+Haiti, 1994-95, Haiti_III.DHS.III, Standard DHS, DHS-III, DHS-III, htbr31, htkr31, htcr31, , , hthr31, htpr31, htmr31, htir31
+Haiti, 2000, Haiti_IV.DHS.IV, Standard DHS, DHS-IV, DHS-IV, htbr42, htkr42, htcr42, htge42, , hthr42, htpr42, htmr42, htir42
+Haiti, 2005-06, Haiti_V.DHS.V, Standard DHS, DHS-V, DHS-V, htbr52, htkr52, htcr52, htge52, , hthr52, htpr52, htmr52, htir52
+Haiti, 2012, Haiti_VI.DHS.VI, Standard DHS, DHS-VI, DHS-VI, htbr61, htkr61, htcr61, htge61, , hthr61, htpr61, htmr61, htir61
+Honduras, 2005-06, Honduras_V.DHS.V, Standard DHS, DHS-V, DHS-V, hnbr52, hnkr52, , , , hnhr52, hnpr52, , hnir52
+Honduras, 2011-12, Honduras_VI.DHS.VI, Standard DHS, DHS-VI, DHS-VI, hnbr62, hnkr62, , hnge61, , hnhr62, hnpr62, hnmr62, hnir62
+Indonesia, 1987, Indonesia_I.DHS.I, Standard DHS, DHS-I, DHS-I, idbr01, idkr01, , , , idhh01, , , idir01
+Indonesia, 1991, Indonesia_II.DHS.II, Standard DHS, DHS-II, DHS-II, idbr21, idkr21, , , , idhr21, idpr21, , idir21
+Indonesia, 1994, Indonesia_IIIb.DHS.III, Standard DHS, DHS-III, DHS-III, idbr31, idkr31, , , , idhr31, idpr31, , idir31
+Indonesia, 1997, Indonesia_IIIa.DHS.III, Standard DHS, DHS-III, DHS-III, idbr3a, idkr3a, , , , idhr3a, idpr3a, , idir3a
+Indonesia, 2002-03, Indonesia_IV.DHS.IV, Standard DHS, DHS-IV, DHS-IV, idbr42, idkr42, idcr42, idge43, , idhr42, idpr42, idmr42, idir42
+Indonesia, 2007, Indonesia_V.DHS.V, Standard DHS, DHS-V, DHS-V, idbr51, idkr51, idcr51, , , idhr51, idpr52, idmr51, idir51
+Indonesia, 2012, Indonesia_VI.DHS.VI, Standard DHS, DHS-VI, DHS-VI, idbr63, idkr63, idcr63, , , idhr63, idpr63, idmr63, idir63
+Ivory Coast, 1994, Ivory_Coast_IIIb.DHS.III, Standard DHS, DHS-III, DHS-III, cibr35, cikr35, cicr35, cige33, , cihr35, cipr35, cimr33, ciir35
+Ivory Coast, 1998-99, Ivory_Coast_IIIa.DHS.III, Standard DHS, DHS-III, DHS-III, cibr3a, cikr3a, cicr3a, cige3b, , cihr3a, cipr3a, cimr3a, ciir3a
+Ivory Coast, 2005, Ivory_Coast_V.AIS.V, Standard AIS, DHS-V, DHS-V, cibr50, cikr50, , , , cihr50, cipr50, , ciir50
+Ivory Coast, 2011-12, Ivory_Coast_VI.DHS.VI, Standard DHS, DHS-VI, DHS-VI, cibr61, cikr61, cicr61, cige61, , cihr61, cipr61, cimr61, ciir61
+Jordan, 1990, Jordan_II.DHS.II, Standard DHS, DHS-II, DHS-II, jobr21, jokr21, , , , johr21, jopr21, , joir21
+Jordan, 1997, Jordan_III.DHS.III, Standard DHS, DHS-III, DHS-III, jobr31, jokr31, , , , johr31, jopr31, , joir31
+Jordan, 2002, Jordan_IV.DHS.IV, Standard DHS, DHS-IV, DHS-IV, jobr42, jokr42, , joge43, , johr42, jopr42, , joir42
+Jordan, 2007, Jordan_V.DHS.V, Standard DHS, DHS-V, DHS-V, jobr51, jokr51, , joge52, , johr51, jopr51, , joir51
+Jordan, 2012, Jordan_VI.DHS.VI, Standard DHS, DHS-VI, DHS-VI, jobr6c, jokr6c, , joge6a, , johr6c, jopr6c, , joir6c
+Kazakhstan, 1995, Kazakhstan_III.DHS.III, Standard DHS, DHS-III, DHS-III, kkbr31, kkkr31, , , , kkhr31, kkpr31, , kkir31
+Kazakhstan, 1999, Kazakhstan_IV.DHS.III, Standard DHS, DHS-IV, DHS-III, kkbr42, kkkr42, kkcr42, , , kkhr42, kkpr42, kkmr41, kkir42
+Kenya, 1989, Kenya_I.DHS.I, Standard DHS, DHS-I, DHS-I, kebr03, kekr01, , , , kehh01, , , keir03
+Kenya, 1993, Kenya_III.DHS.II, Standard DHS, DHS-III, DHS-II, kebr33, kekr31, kecr32, , , kehr33, kepr33, kemr32, keir33
+Kenya, 1998, Kenya_III.DHS.III, Standard DHS, DHS-III, DHS-III, kebr3a, kekr3a, kecr3a, , , kehr3a, kepr3a, kemr3a, keir3a
+Kenya, 2003, Kenya_IV.DHS.IV, Standard DHS, DHS-IV, DHS-IV, kebr42, kekr42, kecr42, kege43, , kehr42, kepr42, kemr42, keir42
+Kenya, 2008-09, Kenya_V.DHS.V, Standard DHS, DHS-V, DHS-V, kebr52, kekr52, kecr52, kege52, , kehr52, kepr52, kemr52, keir52
+Kenya, 2014, Kenya_VII.DHS.VI, Standard DHS, DHS-VII, DHS-VI, kebr70, kekr70, kecr70, kege71, , kehr70, kepr70, kemr70, keir70
+Kyrgyzstan, 1997, Kyrgyzstan_III.DHS.III, Standard DHS, DHS-III, DHS-III, kybr31, kykr31, , , , kyhr31, kypr31, , kyir31
+Kyrgyzstan, 2012, Kyrgyzstan_VI.DHS.VI, Standard DHS, DHS-VI, DHS-VI, kybr61, kykr61, kycr61, kyge61, , kyhr61, kypr61, kymr61, kyir61
+Lesotho, 2004, Lesotho_IV.DHS.IV, Standard DHS, DHS-IV, DHS-IV, lsbr41, lskr41, lscr41, lsge42, , lshr41, lspr41, lsmr41, lsir41
+Lesotho, 2009, Lesotho_VI.DHS.V, Standard DHS, DHS-VI, DHS-V, lsbr61, lskr61, lscr61, lsge62, , lshr61, lspr61, lsmr61, lsir61
+Lesotho, 2014, Lesotho_VII.DHS.VI, Standard DHS, DHS-VII, DHS-VI, lsbr71, lskr71, lscr71, lsge71, , lshr71, lspr71, lsmr71, lsir71
+Liberia, 1986, Liberia_I.DHS.I, Standard DHS, DHS-I, DHS-I, lbbr01, lbkr01, , lbge03, , lbhh01, , , lbir01
+Liberia, 2007, Liberia_V.DHS.V, Standard DHS, DHS-V, DHS-V, lbbr51, lbkr51, lbcr51, lbge52, , lbhr51, lbpr51, lbmr51, lbir51
+Liberia, 2013, Liberia_VI.DHS.VI, Standard DHS, DHS-VI, DHS-VI, lbbr6a, lbkr6a, lbcr6a, lbge6a, , lbhr6a, lbpr6a, lbmr6a, lbir6a
+Madagascar, 1992, Madagascar_II.DHS.II, Standard DHS, DHS-II, DHS-II, mdbr21, mdkr21, , , , mdhr21, mdpr21, , mdir21
+Madagascar, 1997, Madagascar_III.DHS.III, Standard DHS, DHS-III, DHS-III, mdbr31, mdkr31, , mdge32, , mdhr31, mdpr31, , mdir31
+Madagascar, 2003-04, Madagascar_IV.DHS.IV, Standard DHS, DHS-IV, DHS-IV, mdbr41, mdkr41, mdcr41, , , mdhr41, mdpr41, mdmr41, mdir41
+Madagascar, 2008-09, Madagascar_V.DHS.V, Standard DHS, DHS-V, DHS-V, mdbr51, mdkr51, mdcr51, mdge53, , mdhr51, mdpr51, mdmr51, mdir51
+Malawi, 1992, Malawi_II.DHS.II, Standard DHS, DHS-II, DHS-II, mwbr22, mwkr21, mwcr21, , , mwhr22, mwpr22, mwmr21, mwir22
+Malawi, 2000, Malawi_IVb.DHS.IV, Standard DHS, DHS-IV, DHS-IV, mwbr41, mwkr41, mwcr41, mwge43, , mwhr41, mwpr41, mwmr41, mwir41
+Malawi, 2004, Malawi_IVa.DHS.IV, Standard DHS, DHS-IV, DHS-IV, mwbr4d, mwkr4d, mwcr4d, mwge4b, , mwhr4d, mwpr4d, mwmr4d, mwir4d
+Malawi, 2010, Malawi_VI.DHS.V, Standard DHS, DHS-VI, DHS-V, mwbr61, mwkr61, mwcr61, mwge62, , mwhr61, mwpr61, mwmr61, mwir61
+Malawi, 2015-16, Malawi_VII.DHS.VII, Standard DHS, DHS-VII, DHS-VII, mwbr7h, mwkr7h, mwcr7h, mwge7a, , mwhr7h, mwpr7h, mwmr7h, mwir7h
+Maldives, 2009, Maldives_V.DHS.V, Standard DHS, DHS-V, DHS-V, mvbr51, mvkr51, mvcr51, , , mvhr51, mvpr51, mvmr51, mvir51
+Mali, 1987, Mali_I.DHS.I, Standard DHS, DHS-I, DHS-I, mlbr01, mlkr01, , , , mlhh01, , mlml01, mlir01
+Mali, 1995-96, Mali_III.DHS.III, Standard DHS, DHS-III, DHS-III, mlbr32, mlkr31, mlcr31, mlge33, , mlhr32, mlpr32, mlmr31, mlir32
+Mali, 2001, Mali_IV.DHS.IV, Standard DHS, DHS-IV, DHS-IV, mlbr41, mlkr41, mlcr41, mlge42, , mlhr41, mlpr41, mlmr41, mlir41
+Mali, 2006, Mali_V.DHS.V, Standard DHS, DHS-V, DHS-V, mlbr53, mlkr53, mlcr53, mlge52, , mlhr53, mlpr53, mlmr53, mlir53
+Mali, 2012-13, Mali_VI.DHS.VI, Standard DHS, DHS-VI, DHS-VI, mlbr6h, mlkr6h, mlcr6h, mlge6a, , mlhr6h, mlpr6h, mlmr6h, mlir6h
+Mexico, 1987, Mexico_I.DHS.I, Standard DHS, DHS-I, DHS-I, mxbr01, mxkr01, , , , mxhh02, , , mxir01
+Moldova, 2005, Moldova_V.DHS.IV, Standard DHS, DHS-V, DHS-IV, mbbr53, mbkr53, mbcr52, mbge52, , mbhr53, mbpr53, mbmr52, mbir53
+Morocco, 1987, Morocco_I.DHS.I, Standard DHS, DHS-I, DHS-I, mabr01, makr01, , , , mahh01, , , mair01
+Morocco, 1992, Morocco_II.DHS.II, Standard DHS, DHS-II, DHS-II, mabr21, makr21, , , , mahr21, mapr21, , mair21
+Morocco, 2003-04, Morocco_IV.DHS.IV, Standard DHS, DHS-IV, DHS-IV, mabr43, makr43, , mage43, , mahr43, mapr43, , mair43
+Mozambique, 1997, Mozambique_III.DHS.III, Standard DHS, DHS-III, DHS-III, mzbr31, mzkr31, mzcr31, , , mzhr31, mzpr31, mzmr31, mzir31
+Mozambique, 2003, Mozambique_IV.DHS.IV, Standard DHS, DHS-IV, DHS-IV, mzbr41, mzkr41, mzcr41, , , mzhr41, mzpr41, mzmr41, mzir41
+Mozambique, 2009, Mozambique_V.AIS.V, Standard AIS, DHS-V, DHS-V, , , , mzge52, , mzhr51, mzpr51, , mzir51
+Mozambique, 2011, Mozambique_VI.DHS.VI, Standard DHS, DHS-VI, DHS-VI, mzbr62, mzkr62, mzcr62, mzge61, , mzhr62, mzpr62, mzmr62, mzir62
+Namibia, 1992, Namibia_II.DHS.II, Standard DHS, DHS-II, DHS-II, nmbr21, nmkr21, , , , nmhr21, nmpr21, , nmir21
+Namibia, 2000, Namibia_IV.DHS.IV, Standard DHS, DHS-IV, DHS-IV, nmbr41, nmkr41, nmcr41, nmge42, , nmhr41, nmpr41, nmmr41, nmir41
+Namibia, 2006-07, Namibia_V.DHS.V, Standard DHS, DHS-V, DHS-V, nmbr51, nmkr51, nmcr51, nmge53, , nmhr51, nmpr52, nmmr51, nmir51
+Namibia, 2013, Namibia_VI.DHS.VI, Standard DHS, DHS-VI, DHS-VI, nmbr61, nmkr61, nmcr61, nmge61, , nmhr61, nmpr61, nmmr61, nmir61
+Nepal, 1996, Nepal_III.DHS.III, Standard DHS, DHS-III, DHS-III, npbr31, npkr31, , , , nphr31, nppr31, , npir31
+Nepal, 2001, Nepal_IV.DHS.IV, Standard DHS, DHS-IV, DHS-IV, npbr41, npkr41, npcr41, npge42, , nphr41, nppr41, npmr41, npir41
+Nepal, 2006, Nepal_V.DHS.V, Standard DHS, DHS-V, DHS-V, npbr51, npkr51, npcr51, npge53, , nphr51, nppr51, npmr51, npir51
+Nepal, 2011, Nepal_VI.DHS.VI, Standard DHS, DHS-VI, DHS-VI, npbr60, npkr60, npcr60, npge61, , nphr60, nppr60, npmr60, npir60
+Nicaragua, 1998, Nicaragua_III.DHS.III, Standard DHS, DHS-III, DHS-III, ncbr31, nckr31, nccr31, , , nchr31, ncpr31, ncmr31, ncir31
+Nicaragua, 2001, Nicaragua_IV.DHS.IV, Standard DHS, DHS-IV, DHS-IV, ncbr41, nckr41, , , , nchr41, ncpr41, , ncir41
+Niger, 1992, Niger_II.DHS.II, Standard DHS, DHS-II, DHS-II, nibr22, nikr21, nicr21, nige23, , nihr22, nipr22, nimr21, niir22
+Niger, 1998, Niger_III.DHS.III, Standard DHS, DHS-III, DHS-III, nibr31, nikr31, nicr31, nige32, , nihr31, nipr31, nimr31, niir31
+Niger, 2006, Niger_V.DHS.V, Standard DHS, DHS-V, DHS-V, nibr51, nikr51, nicr51, , , nihr51, nipr51, nimr51, niir51
+Niger, 2012, Niger_VI.DHS.VI, Standard DHS, DHS-VI, DHS-VI, nibr61, nikr61, nicr61, , , nihr61, nipr61, nimr61, niir61
+Nigeria, 1990, Nigeria_II.DHS.II, Standard DHS, DHS-II, DHS-II, ngbr21, ngkr21, , ngge23, , nghr21, ngpr21, , ngir21
+Nigeria, 2003, Nigeria_IVa.DHS.IV, Standard DHS, DHS-IV, DHS-IV, ngbr4b, ngkr4b, ngcr4a, ngge4b, , nghr4b, ngpr4c, ngmr4a, ngir4b
+Nigeria, 2008, Nigeria_V.DHS.V, Standard DHS, DHS-V, DHS-V, ngbr53, ngkr53, ngcr53, ngge52, , nghr53, ngpr53, ngmr52, ngir53
+Nigeria, 2013, Nigeria_VI.DHS.VI, Standard DHS, DHS-VI, DHS-VI, ngbr6a, ngkr6a, ngcr6a, ngge6a, , nghr6a, ngpr6a, ngmr6a, ngir6a
+Pakistan, 1990-91, Pakistan_II.DHS.II, Standard DHS, DHS-II, DHS-II, pkbr21, pkkr21, pkcr21, , , pkhr21, pkpr21, pkmr21, pkir21
+Pakistan, 2006-07, Pakistan_V.DHS.V, Standard DHS, DHS-V, DHS-V, pkbr52, pkkr52, , pkge51, , pkhr52, pkpr53, , pkir52
+Pakistan, 2012-13, Pakistan_VI.DHS.VI, Standard DHS, DHS-VI, DHS-VI, pkbr61, pkkr61, , , , pkhr61, pkpr61, pkmr61, pkir61
+Paraguay, 1990, Paraguay_II.DHS.II, Standard DHS, DHS-II, DHS-II, pybr21, pykr21, , , , pyhr21, pypr21, , pyir21
+Peru, 1986, Peru_I.DHS.I, Standard DHS, DHS-I, DHS-I, pebr01, pekr01, , , , pehh01, , , peir01
+Peru, 1991-92, Peru_II.DHS.II, Standard DHS, DHS-II, DHS-II, pebr21, pekr21, , , , pehr21, pepr21, , peir21
+Peru, 1996, Peru_III.DHS.III, Standard DHS, DHS-III, DHS-III, pebr31, pekr31, pecr31, , , pehr31, pepr31, pemr31, peir31
+Peru, 2000, Peru_IV.DHS.IV, Standard DHS, DHS-IV, DHS-IV, pebr41, pekr41, , pege44, , pehr41, pepr41, , peir41
+Philippines, 1993, Philippines_III.DHS.II, Standard DHS, DHS-III, DHS-II, phbr31, phkr31, , , , phhr31, phpr31, , phir31
+Philippines, 1998, Philippines_III.DHS.III, Standard DHS, DHS-III, DHS-III, phbr3b, phkr3b, , , , phhr3b, phpr3b, , phir3b
+Philippines, 2003, Philippines_IV.DHS.IV, Standard DHS, DHS-IV, DHS-IV, phbr41, phkr41, phcr41, phge43, , phhr41, phpr41, phmr41, phir41
+Philippines, 2008, Philippines_V.DHS.V, Standard DHS, DHS-V, DHS-V, phbr52, phkr52, , phge52, , phhr52, phpr52, , phir52
+Philippines, 2013, Philippines_VI.DHS.VI, Standard DHS, DHS-VI, DHS-VI, phbr61, phkr61, , , , phhr61, phpr62, , phir61
+Rwanda, 1992, Rwanda_II.DHS.II, Standard DHS, DHS-II, DHS-II, rwbr21, rwkr21, rwcr21, , , rwhr21, rwpr21, rwmr21, rwir21
+Rwanda, 2000, Rwanda_IV.DHS.IV, Standard DHS, DHS-IV, DHS-IV, rwbr41, rwkr41, rwcr41, , , rwhr41, rwpr41, rwmr41, rwir41
+Rwanda, 2005, Rwanda_V.DHS.IV, Standard DHS, DHS-V, DHS-IV, rwbr53, rwkr53, rwcr53, rwge54, , rwhr53, rwpr53, rwmr53, rwir53
+Rwanda, 2010, Rwanda_VI.DHS.VI, Standard DHS, DHS-VI, DHS-VI, rwbr61, rwkr61, rwcr61, rwge61, , rwhr61, rwpr61, rwmr61, rwir61
+Rwanda, 2014-15, Rwanda_VII.DHS.VI, Standard DHS, DHS-VII, DHS-VI, rwbr70, rwkr70, rwcr70, rwge71, , rwhr70, rwpr70, rwmr70, rwir70
+Sao Tome, 2008-09, Sao_Tome_V.DHS.V, Standard DHS, DHS-V, DHS-V, stbr50, stkr50, stcr50, , , sthr50, stpr50, stmr50, stir50
+Senegal, 1986, Senegal_I.DHS.I, Standard DHS, DHS-I, DHS-I, snbr02, snkr01, , , , snhh01, , , snir02
+Senegal, 1992-93, Senegal_II.DHS.II, Standard DHS, DHS-II, DHS-II, snbr21, snkr21, sncr21, snge23, , snhr21, snpr21, snmr21, snir21
+Senegal, 1997, Senegal_III.DHS.II, Standard DHS, DHS-III, DHS-II, snbr32, snkr32, sncr31, snge32, , snhr32, snpr32, snmr31, snir32
+Senegal, 2005, Senegal_IV.DHS.IV, Standard DHS, DHS-IV, DHS-IV, snbr4h, snkr4h, sncr4h, snge4b, , snhr4h, snpr4h, snmr4h, snir4h
+Senegal, 2010-11, Senegal_VI.DHS.VI, Standard DHS, DHS-VI, DHS-VI, snbr61, snkr61, sncr61, snge61, , snhr61, snpr61, snmr61, snir61
+Sierra Leone, 2008, Sierra_Leone_V.DHS.V, Standard DHS, DHS-V, DHS-V, slbr51, slkr51, slcr51, slge53, , slhr51, slpr51, slmr51, slir51
+Sierra Leone, 2013, Sierra_Leone_VI.DHS.VI, Standard DHS, DHS-VI, DHS-VI, slbr61, slkr61, slcr61, slge61, , slhr61, slpr61, slmr61, slir61
+South Africa, 1998, South_Africa_III.DHS.III, Standard DHS, DHS-III, DHS-III, zabr31, zakr31, , , , zahr31, zapr31, , zair31
+Sri Lanka, 1987, Sri_Lanka_I.DHS.I, Standard DHS, DHS-I, DHS-I, lkbr02, lkkr01, , , , lkhh01, , , lkir02
+Sudan, 1989-90, Sudan_I.DHS.I, Standard DHS, DHS-I, DHS-I, sdbr02, sdkr01, , , , sdhh01, , , sdir02
+Swaziland, 2006-07, Swaziland_V.DHS.V, Standard DHS, DHS-V, DHS-V, szbr51, szkr51, szcr51, szge53, , szhr51, szpr52, szmr51, szir51
+Tajikistan, 2012, Tajikistan_VI.DHS.VI, Standard DHS, DHS-VI, DHS-VI, tjbr61, tjkr61, , tjge61, , tjhr61, tjpr61, , tjir61
+Tanzania, 1991-92, Tanzania_II.DHS.II, Standard DHS, DHS-II, DHS-II, tzbr21, tzkr21, tzcr21, , , tzhr21, tzpr21, tzmr21, tzir21
+Tanzania, 1996, Tanzania_III.DHS.III, Standard DHS, DHS-III, DHS-III, tzbr3a, tzkr3a, tzcr3a, , , tzhr3a, tzpr3a, tzmr3a, tzir3a
+Tanzania, 1999, Tanzania_IVb.DHS.IV, Standard DHS, DHS-IV, DHS-IV, tzbr41, tzkr41, tzcr41, tzge43, , tzhr41, tzpr41, tzmr41, tzir41
+Tanzania, 2003-04, Tanzania_IV.AIS.V, Standard AIS, DHS-IV, DHS-V, , , , tzge4c, , tzhr4a, tzpr4a, , tzir4a
+Tanzania, 2004-05, Tanzania_IVa.DHS.IV, Standard DHS, DHS-IV, DHS-IV, tzbr4i, tzkr4i, tzcr4i, , , tzhr4i, tzpr4i, tzmr4i, tzir4i
+Tanzania, 2007-08, Tanzania_V.AIS.V, Standard AIS, DHS-V, DHS-V, tzbr51, tzkr51, , tzge52, , tzhr51, tzpr51, , tzir51
+Tanzania, 2010, Tanzania_VI.DHS.V, Standard DHS, DHS-VI, DHS-V, tzbr63, tzkr63, tzcr63, tzge61..tzob61, , tzhr63, tzpr63, tzmr61, tzir63
+Tanzania, 2011-12, Tanzania_VI.AIS.VI, Standard AIS, DHS-VI, DHS-VI, tzbr6a, tzkr6a, , tzge6a, , tzhr6a, tzpr6a, , tzir6a
+Tanzania, 2015-16, Tanzania_VII.DHS.VII, Standard DHS, DHS-VII, DHS-VII, tzbr7h, tzkr7h, tzcr7h, tzge7a, , tzhr7h, tzpr7h, tzmr7h, tzir7h
+Thailand, 1987, Thailand_I.DHS.I, Standard DHS, DHS-I, DHS-I, thbr01, thkr01, , , , thhh01, , , thir01
+Timor-Leste, 2009-10, Timor-Leste_VI.DHS.V, Standard DHS, DHS-VI, DHS-V, tlbr61, tlkr61, tlcr61, tlge62, , tlhr61, tlpr61, tlmr61, tlir61
+Togo, 1988, Togo_I.DHS.I, Standard DHS, DHS-I, DHS-I, tgbr01, tgkr01, , tgge03, , tghh01, , , tgir01
+Togo, 1998, Togo_III.DHS.III, Standard DHS, DHS-III, DHS-III, tgbr31, tgkr31, tgcr31, tgge32, , tghr31, tgpr31, tgmr31, tgir31
+Togo, 2013-14, Togo_VI.DHS.VI, Standard DHS, DHS-VI, DHS-VI, tgbr61, tgkr61, tgcr61, tgge62, , tghr61, tgpr61, tgmr61, tgir61
+Trinidad, 1987, Trinidad_I.DHS.I, Standard DHS, DHS-I, DHS-I, ttbr01, ttkr01, , , , tthh01, , , ttir01
+Tunisia, 1988, Tunisia_I.DHS.I, Standard DHS, DHS-I, DHS-I, tnbr02, tnkr01, , , , tnhh01, , , tnir02
+Turkey, 1993, Turkey_III.DHS.II, Standard DHS, DHS-III, DHS-II, trbr31, trkr31, , , , trhr31, trpr31, , trir31
+Turkey, 1998, Turkey_IV.DHS.III, Standard DHS, DHS-IV, DHS-III, trbr41, trkr41, trcr41, , , trhr41, trpr41, trmr41, trir41
+Turkey, 2003, Turkey_IV.DHS.IV, Standard DHS, DHS-IV, DHS-IV, trbr4a, trkr4a, , , , trhr4a, trpr4a, , trir4a
+Uganda, 1988-89, Uganda_I.DHS.I, Standard DHS, DHS-I, DHS-I, ugbr01, ugkr01, , , , ughh01, , , ugir01
+Uganda, 1995, Uganda_III.DHS.III, Standard DHS, DHS-III, DHS-III, ugbr33, ugkr33, ugcr33, , , ughr33, ugpr33, ugmr33, ugir33
+Uganda, 2000-01, Uganda_IV.DHS.IV, Standard DHS, DHS-IV, DHS-IV, ugbr41, ugkr41, ugcr41, ugge43, , ughr41, ugpr41, ugmr41, ugir41
+Uganda, 2006, Uganda_V.DHS.V, Standard DHS, DHS-V, DHS-V, ugbr52, ugkr52, ugcr52, ugge53, , ughr52, ugpr52, ugmr52, ugir52
+Uganda, 2011, Uganda_VI.DHS.VI, Standard DHS, DHS-VI, DHS-VI, ugbr60, ugkr60, ugcr60, ugge61..ugge6a, , ughr6a..ughr60, ugpr6a..ugpr60, ugmr60, ugir6a..ugir60
+Ukraine, 2007, Ukraine_V.DHS.V, Standard DHS, DHS-V, DHS-V, uabr51, uakr51, uacr51, , , uahr51, uapr51, uamr51, uair51
+Uzbekistan, 1996, Uzbekistan_III.DHS.III, Standard DHS, DHS-III, DHS-III, uzbr31, uzkr31, , , , uzhr31, uzpr31, , uzir31
+Vietnam, 1997, Vietnam_III.DHS.III, Standard DHS, DHS-III, DHS-III, vnbr31, vnkr31, , , , vnhr31, vnpr31, , vnir31
+Vietnam, 2002, Vietnam_IV.DHS.IV, Standard DHS, DHS-IV, DHS-IV, vnbr41, vnkr41, , , , vnhr41, vnpr41, , vnir41
+Vietnam, 2005, Vietnam_V.AIS.V, Standard AIS, DHS-V, DHS-V, , , , , , vnhr52, vnpr53, , vnir52
+Yemen, 1991-92, Yemen_II.DHS.II, Standard DHS, DHS-II, DHS-II, yebr21, yekr21, , , , yehr21, yepr21, , yeir21
+Yemen, 2013, Yemen_VI.DHS.VI, Standard DHS, DHS-VI, DHS-VI, yebr61, yekr61, , , , yehr61, yepr61, , yeir61
+Zambia, 1992, Zambia_II.DHS.II, Standard DHS, DHS-II, DHS-II, zmbr21, zmkr21, , , , zmhr21, zmpr21, , zmir21
+Zambia, 1996, Zambia_III.DHS.III, Standard DHS, DHS-III, DHS-III, zmbr31, zmkr31, zmcr31, , , zmhr31, zmpr31, zmmr31, zmir31
+Zambia, 2001-02, Zambia_IV.DHS.IV, Standard DHS, DHS-IV, DHS-IV, zmbr42, zmkr42, zmcr42, , , zmhr42, zmpr43, zmmr41, zmir42
+Zambia, 2007, Zambia_V.DHS.V, Standard DHS, DHS-V, DHS-V, zmbr51, zmkr51, zmcr51, zmge52, , zmhr51, zmpr51, zmmr51, zmir51
+Zambia, 2013-14, Zambia_VI.DHS.VI, Standard DHS, DHS-VI, DHS-VI, zmbr61, zmkr61, zmcr61, zmge61, , zmhr61, zmpr61, zmmr61, zmir61
+Zimbabwe, 1988, Zimbabwe_I.DHS.I, Standard DHS, DHS-I, DHS-I, zwbr01, zwkr01, , , , zwhh01, , , zwir01
+Zimbabwe, 1994, Zimbabwe_III.DHS.III, Standard DHS, DHS-III, DHS-III, zwbr31, zwkr31, zwcr31, , , zwhr31, zwpr31, zwmr31, zwir31
+Zimbabwe, 1999, Zimbabwe_IV.DHS.IV, Standard DHS, DHS-IV, DHS-IV, zwbr42, zwkr42, zwcr41, zwge42, , zwhr42, zwpr42, zwmr41, zwir42
+Zimbabwe, 2005-06, Zimbabwe_V.DHS.V, Standard DHS, DHS-V, DHS-V, zwbr52, zwkr52, zwcr52, zwge52, , zwhr52, zwpr52, zwmr52, zwir52
+Zimbabwe, 2010-11, Zimbabwe_VI.DHS.VI, Standard DHS, DHS-VI, DHS-VI, zwbr62, zwkr62, zwcr62, zwge61, , zwhr62, zwpr62, zwmr62, zwir62
+Zimbabwe, 2015, Zimbabwe_VII.DHS.VII, Standard DHS, DHS-VII, DHS-VII, zwbr70, zwkr70, zwcr70, zwge71, , zwhr70, zwpr70, zwmr70, zwir70
